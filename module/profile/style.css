@@ -1,0 +1,7 @@
+.password-toggle {
+    position: relative;
+    z-index: 1;
+    left: 95%;
+    top: -30px;
+    cursor: pointer;
+}

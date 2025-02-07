@@ -1,0 +1,30 @@
+
+    .ui-autocomplete {
+        position: absolute;
+        z-index: 1051 !important; /* Higher than bootstrap modal's z-index */
+        cursor: default;
+        padding: 0;
+        margin-top: 2px;
+        list-style: none;
+        background-color: #ffffff;
+        border: 1px solid #ccc;
+        -webkit-box-shadow: 0 5px 10px rgba(0,0,0,.2);
+        box-shadow: 0 5px 10px rgba(0,0,0,.2);
+        max-height: 200px;
+        overflow-y: auto;
+        overflow-x: hidden;
+    }
+    .ui-menu-item {
+        padding: 3px 20px;
+        background: #fff;
+        border-bottom: 1px solid #ccc;
+    }
+    .ui-menu-item:hover {
+        background: #f0f0f0;
+    }
+    .modal {
+        z-index: 1050; /* Ensure modal is above other content */
+    }
+    .modal-backdrop {
+        z-index: 1040; /* Ensure backdrop is behind modal */
+    }

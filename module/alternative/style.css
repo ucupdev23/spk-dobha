@@ -1,0 +1,25 @@
+.form-group {
+    margin-bottom: 1rem;
+}
+.form-row {
+    margin-bottom: 1rem;
+}
+.form-label {
+    font-weight: bold;
+}
+.form-control {
+    border-radius: 0.25rem;
+    padding: 0.5rem;
+}
+.form-container {
+    max-width: 950px;
+    margin: auto;
+    padding: 2rem;
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+    background-color: #f8f9fa;
+}
+
+.modal-xl {
+    max-width: 70%;
+}
