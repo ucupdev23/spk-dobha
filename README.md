@@ -1,76 +1,7 @@
 # IMPLEMENTASI PROFILE MATCHING SEBAGAI METODE PEMILIHAN KARYAWAN BERPRESTASI DALAM SISTEM PENDUKUNG KEPUTUSAN BERBASIS WEB PADA PT. DOBHA PUTRA SALIM
 
-![Project Screenshot](https://via.placeholder.com/800x400?text=Sistem+SPK+Karyawan+Berprestasi)
-*(Opsional: Ganti dengan screenshot aplikasi Anda untuk visual yang lebih baik)*
-
----
-
-## Deskripsi Proyek
-
-Proyek ini adalah **Sistem Pendukung Keputusan (SPK)** berbasis web yang dirancang untuk membantu PT. Dobha Putra Salim dalam proses pemilihan karyawan berprestasi. Sistem ini mengimplementasikan metode **Profile Matching** untuk mengevaluasi dan memeringkat karyawan berdasarkan kriteria yang telah ditentukan, sehingga menghasilkan keputusan yang lebih objektif dan akurat.
-
-## Latar Belakang
-
-Pemilihan karyawan berprestasi seringkali menjadi tantangan bagi banyak perusahaan, termasuk PT. Dobha Putra Salim, karena prosesnya yang seringkali subjektif dan memakan waktu. Proyek ini hadir sebagai solusi untuk mengatasi masalah tersebut dengan menyediakan sistem yang terotomatisasi dan transparan, menggunakan pendekatan Profile Matching yang telah terbukti efektif dalam seleksi dan penilaian.
-
----
-
-## Fitur Utama
-
-* **Manajemen Data Karyawan:** Mengelola informasi detail setiap karyawan.
-* **Definisi Kriteria Penilaian:** Menentukan kriteria yang relevan untuk penilaian karyawan berprestasi (misalnya, kinerja, kehadiran, inisiatif, dll.).
-* **Implementasi Metode Profile Matching:** Melakukan perhitungan gap kompetensi antara profil ideal dan profil aktual karyawan.
-* **Perangkingan Otomatis:** Menghasilkan urutan karyawan berprestasi berdasarkan hasil perhitungan Profile Matching.
-* **Antarmuka Berbasis Web:** Memudahkan akses dan penggunaan sistem dari mana saja.
-* **Laporan Hasil:** Menyajikan laporan hasil penilaian yang mudah dipahami.
-
----
-
-## Teknologi yang Digunakan
-
-* **Bahasa Pemrograman:** PHP
-* **Framework:** [Sebutkan Framework Anda, misal: CodeIgniter 3 / Laravel / Tanpa Framework]
-* **Database:** MySQL
-* **Front-end:** HTML, CSS, JavaScript ([Sebutkan Framework CSS jika ada, misal: Bootstrap 5 / Tailwind CSS])
-* **Web Server:** Apache / Nginx
-
----
-
-## Instalasi dan Cara Menjalankan Proyek
-
-Untuk menjalankan proyek ini di lingkungan lokal Anda, ikuti langkah-langkah berikut:
-
-1.  **Clone Repositori:**
-    ```bash
-    git clone [https://github.com/](https://github.com/)[username-github-anda]/[nama-repositori-anda].git
-    ```
-2.  **Masuk ke Direktori Proyek:**
-    ```bash
-    cd [nama-repositori-anda]
-    ```
-3.  **Konfigurasi Database:**
-    * Buat database baru di MySQL dengan nama `[nama_database_anda]`.
-    * Import file `[nama_file_sql_anda.sql]` (biasanya terletak di folder `database` atau `sql`) ke database yang baru Anda buat.
-4.  **Konfigurasi Aplikasi:**
-    * Buka file konfigurasi database Anda (misalnya: `application/config/database.php` jika menggunakan CodeIgniter, atau sesuaikan dengan lokasi file konfigurasi Anda).
-    * Sesuaikan kredensial database (username, password, nama database) dengan pengaturan lokal Anda.
-5.  **Tempatkan Proyek di Web Server:**
-    * Pindahkan seluruh folder proyek ke direktori `htdocs` (untuk XAMPP/WAMP) atau direktori root web server Anda.
-6.  **Akses Aplikasi:**
-    * Buka browser Anda dan akses proyek melalui `http://localhost/[nama-folder-proyek-anda]`.
-
----
-
-## Struktur Direktori (Opsional, tapi direkomendasikan)
-
-Tentu, ini dia format README yang siap Anda copy-paste dan sesuaikan langsung di GitHub! Saya sudah menyertakan beberapa placeholder [ ] yang perlu Anda ganti dengan informasi spesifik proyek Anda.
-
-Markdown
-
-# IMPLEMENTASI PROFILE MATCHING SEBAGAI METODE PEMILIHAN KARYAWAN BERPRESTASI DALAM SISTEM PENDUKUNG KEPUTUSAN BERBASIS WEB PADA PT. DOBHA PUTRA SALIM
-
-![Project Screenshot](https://via.placeholder.com/800x400?text=Sistem+SPK+Karyawan+Berprestasi)
-*(Opsional: Ganti dengan screenshot aplikasi Anda untuk visual yang lebih baik)*
+![Image](https://github.com/user-attachments/assets/0269a5b7-b19f-4143-a354-c9ac83e5cfaa)
+![Image](https://github.com/user-attachments/assets/9024d426-ca48-4b81-b0b5-888212de6665)
 
 ---
 
@@ -132,87 +63,13 @@ Untuk menjalankan proyek ini di lingkungan lokal Anda, ikuti langkah-langkah ber
 
 ## Struktur Direktori
 
-
-Maaf sekali, saya salah dalam format struktur direktori di balasan sebelumnya! Itu karena saya mencoba membuat format visual pohon direktori menggunakan karakter dasar yang tidak terrender dengan baik di Markdown GitHub.
-
-Tenang saja, ada cara yang jauh lebih baik dan umum digunakan untuk menampilkan struktur direktori di README GitHub, yaitu dengan menggunakan indentasi dan karakter seperti ├── (cabang) dan └── (akhir cabang).
-
-Berikut adalah format README yang sudah saya perbaiki khusus untuk bagian "Struktur Direktori" agar terlihat seperti pohon direktori yang rapi dan mudah dibaca. Silakan dicopy-paste lagi ya!
-
-Markdown
-
-# IMPLEMENTASI PROFILE MATCHING SEBAGAI METODE PEMILIHAN KARYAWAN BERPRESTASI DALAM SISTEM PENDUKUNG KEPUTUSAN BERBASIS WEB PADA PT. DOBHA PUTRA SALIM
-
-![Project Screenshot](https://via.placeholder.com/800x400?text=Sistem+SPK+Karyawan+Berprestasi)
-*(Opsional: Ganti dengan screenshot aplikasi Anda untuk visual yang lebih baik)*
-
----
-
-## Deskripsi Proyek
-
-Proyek ini adalah **Sistem Pendukung Keputusan (SPK)** berbasis web yang dirancang untuk membantu PT. Dobha Putra Salim dalam proses pemilihan karyawan berprestasi. Sistem ini mengimplementasikan metode **Profile Matching** untuk mengevaluasi dan memeringkat karyawan berdasarkan kriteria yang telah ditentukan, sehingga menghasilkan keputusan yang lebih objektif dan akurat.
-
-## Latar Belakang
-
-Pemilihan karyawan berprestasi seringkali menjadi tantangan bagi banyak perusahaan, termasuk PT. Dobha Putra Salim, karena prosesnya yang seringkali subjektif dan memakan waktu. Proyek ini hadir sebagai solusi untuk mengatasi masalah tersebut dengan menyediakan sistem yang terotomatisasi dan transparan, menggunakan pendekatan Profile Matching yang telah terbukti efektif dalam seleksi dan penilaian.
-
----
-
-## Fitur Utama
-
-* **Manajemen Data Karyawan:** Mengelola informasi detail setiap karyawan.
-* **Definisi Kriteria Penilaian:** Menentukan kriteria yang relevan untuk penilaian karyawan berprestasi (misalnya, kinerja, kehadiran, inisiatif, dll.).
-* **Implementasi Metode Profile Matching:** Melakukan perhitungan gap kompetensi antara profil ideal dan profil aktual karyawan.
-* **Perangkingan Otomatis:** Menghasilkan urutan karyawan berprestasi berdasarkan hasil perhitungan Profile Matching.
-* **Antarmuka Berbasis Web:** Memudahkan akses dan penggunaan sistem dari mana saja.
-* **Laporan Hasil:** Menyajikan laporan hasil penilaian yang mudah dipahami.
-
----
-
-## Teknologi yang Digunakan
-
-* **Bahasa Pemrograman:** PHP
-* **Framework:** [Sebutkan Framework Anda, misal: CodeIgniter 3 / Laravel / Tanpa Framework]
-* **Database:** MySQL
-* **Front-end:** HTML, CSS, JavaScript ([Sebutkan Framework CSS jika ada, misal: Bootstrap 5 / Tailwind CSS])
-* **Web Server:** Apache / Nginx
-
----
-
-## Instalasi dan Cara Menjalankan Proyek
-
-Untuk menjalankan proyek ini di lingkungan lokal Anda, ikuti langkah-langkah berikut:
-
-1.  **Clone Repositori:**
-    ```bash
-    git clone [https://github.com/](https://github.com/)[username-github-anda]/[nama-repositori-anda].git
-    ```
-2.  **Masuk ke Direktori Proyek:**
-    ```bash
-    cd [nama-repositori-anda]
-    ```
-3.  **Konfigurasi Database:**
-    * Buat database baru di MySQL dengan nama `[nama_database_anda]`.
-    * Import file `[nama_file_sql_anda.sql]` (biasanya terletak di folder `database` atau `sql`) ke database yang baru Anda buat.
-4.  **Konfigurasi Aplikasi:**
-    * Buka file konfigurasi database Anda (misalnya: `application/config/database.php` jika menggunakan CodeIgniter, atau sesuaikan dengan lokasi file konfigurasi Anda).
-    * Sesuaikan kredensial database (username, password, nama database) dengan pengaturan lokal Anda.
-5.  **Tempatkan Proyek di Web Server:**
-    * Pindahkan seluruh folder proyek ke direktori `htdocs` (untuk XAMPP/WAMP) atau direktori root web server Anda.
-6.  **Akses Aplikasi:**
-    * Buka browser Anda dan akses proyek melalui `http://localhost/[nama-folder-proyek-anda]`.
-
----
-
-## Struktur Direktori
-
-.
-├── application/       # Logika aplikasi (MVC jika pakai framework)
-├── assets/            # File CSS, JS, dan Gambar
-├── database/          # File SQL database
-├── system/            # File sistem (jika pakai framework, bisa dihapus jika tanpa framework)
-├── index.php          # File utama aplikasi
-└── README.md          # File README ini
+-   `[nama-repositori-anda]/`
+    -   `application/` &nbsp; # Logika aplikasi (MVC jika pakai framework)
+    -   `assets/` &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # File CSS, JS, dan Gambar
+    -   `database/` &nbsp; &nbsp; &nbsp; # File SQL database
+    -   `system/` &nbsp; &nbsp; &nbsp; &nbsp; # File sistem (jika pakai framework, bisa dihapus jika tanpa framework)
+    -   `index.php` &nbsp; &nbsp; &nbsp; # File utama aplikasi
+    -   `README.md` &nbsp; &nbsp; # File README ini
 
 ---
 
@@ -234,7 +91,7 @@ Jika Anda memiliki pertanyaan atau ingin berdiskusi lebih lanjut tentang proyek 
 
 * **Nama:** [Nama Lengkap Anda]
 * **Email:** [Alamat Email Anda]
-* **LinkedIn :** [Link Profil LinkedIn Anda]
+* **LinkedIn (Opsional):** [Link Profil LinkedIn Anda]
 
 ---
 
